@@ -1,4 +1,4 @@
-# SIRGCN: Reaction-Diffusion Based Graph Neural Models for Traffic Forecasting
+# Reaction-Diffusion Based Graph Neural Models for Traffic Forecasting
 
 This repository contains source code and datasets for a series of models built upon reaction-diffusion graph dynamics for traffic forecasting:
 
